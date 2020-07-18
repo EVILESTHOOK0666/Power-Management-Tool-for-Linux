@@ -1,0 +1,7 @@
+tlp-config (0.9.9-1~saucy) saucy; urgency=low
+
+  * Saving configuration preserving comments
+  * Warning windows added
+  * Initial release
+
+ -- Alexander Tsarkov <reports.alex.tsarkov@gmail.com>  Fri, 18 Oct 2013 15:10:04 +0400
